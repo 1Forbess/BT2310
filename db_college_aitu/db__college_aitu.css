@@ -9,7 +9,7 @@
 
   body {
     height: 93vh;
-    background: url(/bg.webp) no-repeat;
+    background: url(bg.webp) no-repeat;
     background-size: cover;
     background-position: center;
   }
